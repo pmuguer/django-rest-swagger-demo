@@ -133,6 +133,7 @@ INSTALLED_APPS = (
     # 'django.contrib.admindocs',
     'rest_framework',
     'rest_framework_swagger',
+    'drf_yasg',
     'snippets',
 )
 
